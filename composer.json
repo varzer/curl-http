@@ -1,0 +1,30 @@
+{
+  "name": "varzer/curl-http",
+  "version": "0.1",
+  "description": "The Varzer curl-http",
+  "keywords": [
+    "varzer",
+    "curl",
+    "php http request"
+  ],
+  "type": "library",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/varzer/curl-http/issues",
+    "source": "https://github.com/varzer/curl-http"
+  },
+  "authors": [
+    {
+      "name": "setMe",
+      "email": "randomfun@163.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "varzer\\": "vendor/varzer/curl-http/src"
+    }
+  }
+}
