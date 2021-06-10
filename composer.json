@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "varzer\\": "varzer/curl-http/src"
+      "varzer\\": "/varzer/curl-http/src/"
     }
   }
 }
