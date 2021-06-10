@@ -1,6 +1,5 @@
 {
   "name": "varzer/curl-http",
-  "version": "0.1",
   "description": "The Varzer curl-http",
   "keywords": [
     "varzer",
@@ -20,11 +19,11 @@
     }
   ],
   "require": {
-    "php": ">=7.0"
+    "php": ">=7.1.0"
   },
   "autoload": {
     "psr-4": {
-      "varzer\\": "vendor/varzer/curl-http/src"
+      "varzer\\": "varzer/curl-http/src"
     }
   }
 }
