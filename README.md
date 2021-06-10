@@ -2,7 +2,7 @@
     
 ##### a http require package
 
-    use varzer/service/Http;
+    use varzer\service\Http;
     
     GET:
     $url = 'https://api.about.xx.cn/user?id=100';
